@@ -1,6 +1,7 @@
 # pitch-teamdetres
-pitch-teamdetres created by GitHub Classroom
-##Integrantes:
-- Raúl Mosquera
-- Victor Ascuña
-- Osman Vilchez - Lider
+## Integrantes:
+
+- (Lider) Osman Vilchez --> 201810532
+- Raúl Mosquera --> 201810711
+- Victor Ascuña --> (Espera)
+
