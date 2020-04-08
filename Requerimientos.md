@@ -1,9 +1,9 @@
-##Requerimientos:
+# Requerimientos:
 
 - Offline y Online
 - STEAM(Física y Matemáticas) → CLMS(Guía)
 - 3ro 4to 5to de Secundaria
-- #Filtro de contenido(En dos fases) → Contenido de calidad 
+## Filtro de contenido(En dos fases) → Contenido de calidad 
 - Contenido por parte del profesor y alumno (Wabu)
 - Multiplataforma
 - Metodología libre(La presentación de la metodología para enseñar es libre bajo una metodología de iteraciones)
