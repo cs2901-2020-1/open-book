@@ -12,3 +12,4 @@
 - Tipo de contenido(Video, PDF, etc).
 - Calificación del libro y opiniones del profesor y alumno.
 - Adquicisión de Usuarios
+
