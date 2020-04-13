@@ -8,5 +8,10 @@
   - Personas que filtraran el contenido
   
 ## Prioridades:
-  - Onlinne Offline
+  - Onlinne 
   - Filtro de Contenidos
+  - Offline
+  - Login Register
+  - Categorización del contenido
+  - UX-Contenido llamativo
+  - UF
