@@ -33,8 +33,8 @@
 5. NFR-05 [#23](https://github.com/cs2901-2020-1/open-book/issues/23)
 
 ### Resultados de las Técnicas de Recolección de Requerimientos
-1. [Técnica 1](docs/analysis/tecnica1.md)
-1. [Técnica 2](docs/analysis/tecnica2.md)
+1. [ENCUESTAS](https://docs.google.com/spreadsheets/d/13B5uVTJGGnSwJU4sAPqzLXOF3a3avQ92uQwEARpqyGw/edit?usp=sharing)
+1. [ENTREVISTAS](docs/analysis/tecnica2.md)
 
 ### Casos de Uso / Use Case
 1. [UC-01 Login](docs/analysis/UC01.md)
