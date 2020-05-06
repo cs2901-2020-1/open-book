@@ -2,14 +2,14 @@
 
 |  **#** | **Código** | **Apellidos, Nombre** | **% Trabajo** |
 | :---: | :---: | :---: | :---: |
-|  1 | 201810532 | Vilchez Aguirre, Osman |  |
-|  2 | 201810482 | Ascuña Coa, Victor     |  |
-|  3 |  |  |  |
-|  4 |  |  |  |
+|  1 | 201810532 | Vilchez Aguirre, Osman | 100% |
+|  2 | 201810482 | Ascuña Coa, Victor     | 100% |
+|  3 | 201810711 | Mosquera Pumaricra, Raúl | 100% |
+|  4 | 201720086 | Rojas Cruz, Daniel  | 100% |
 
 
 ## Contenido
-### [Glosario](docs/glossary.md)
+### [Glosario](https://github.com/cs2901-2020-1/open-book/blob/master/docs/glosario.md)
 ### Lista de Requerimientos 
 #### Requerimientos Funcionales Must-Have(8)
 1. FR-01 [#9](https://github.com/cs2901-2020-1/open-book/issues/9)
