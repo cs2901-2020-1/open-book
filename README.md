@@ -43,5 +43,4 @@
 4. [UC Diagram](docs/analysis/UC_Diagram.md)
 
 ### Presentation / Presentación
-1. [Presentación Etapa de Análisis](docs/analysis/presentation.pdf)
-+
+1. [Presentación Etapa de Análisis](https://www.canva.com/design/DAD7aS64T8c/qS-Oocu2d7Vh_NETEIQMSA/view?website#2)
